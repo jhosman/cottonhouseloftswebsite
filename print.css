@@ -1,0 +1,75 @@
+body, #neighborhood {
+	background: white;
+	font-size: 12pt;
+	float: none;
+	border: none;
+	width: auto;
+	}
+	
+h1 {
+	font-size: 14pt;
+	text-align: center;
+}
+
+td {
+	border-bottom: solid 1px #000000;
+	padding: 5px;
+}
+
+/* Remove unwanted elements */
+#navigation, #footer, .noprint {
+	display: none;
+}
+
+/* Ensure the content spans the full width */
+#maincontent {
+	width: auto;
+	border: 0;
+	margin: 0 5%;
+	padding: 0;
+	float: none;
+	color: black; 
+	background: transparent;
+	font-size: 12pt;
+	}
+
+#menuandmain {
+	border: none;
+	width: auto;
+	border: 0;
+	margin: 0 5%;
+	padding: 0;
+	float: none;
+	color: black; 
+	background: transparent;
+}
+
+/* Improve colour contrast of links */
+a:link, a:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/* Insert URLs in parens after links */
+a:link:after, a:visited:after {
+  content: " (" attr(href) ") ";
+  font-size: 90%;
+}
+
+/* Show image replacement text */
+#header {
+	padding: 50px;
+	background-image: none;
+	border: none;
+	height: 5px;
+	text-decoration: underline;
+}
+
+#contacthead, #history, #welcome, #meetings, #rules, #pets, #movepolicy, #enforcement, #services, #survey, #art, #local  {
+	padding: 25px;
+	background-image: none;
+	border: none;
+	height: 5px;
+}

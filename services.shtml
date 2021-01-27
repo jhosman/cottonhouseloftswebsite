@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Resident Services: The Upper Cottonhouse Lofts at Appleton Mills</title>
+<link href="ucl.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="menu.css" rel="stylesheet" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+
+<div id="maincontent">
+<h2 id="services">Resident Services</h2>
+
+<h3>Trash and Recycling</h3>
+<p>Residents should use the dumpster at the back of the building, outside the gate at the back of the underpass, to discard their trash. Dumpster area is locked from both the inside and outside, so please remember to bring your key. There is currently no recycling facility available.</p>
+
+<h3>Upper Cottonhouse Lofts Yahoo Group</h3>
+<p>Residents of the sixth floor in the Cottonhouse Lofts are welcome to join the <a href="http://groups.yahoo.com/group/cottonhouse/">UCL Yahoo Group</a>, where residents can send and recieve emails with other UCL residents. The UCL Yahoo Group is meant to be used only for communications relevant to the Cottonhouse Lofts, and only residents of the UCL may join.</p>
+
+<h3>Bicycle Room</h3>
+<p>There are storage racks for 18 bicycles in the Upper Cottonhouse Lofts, which are available to sixth floor residents only. A $25 deposit for a key to the room is required, and rental of space in the room is $25 per six-month period, per bicycle.</p>
+<p>If you would like to use this room to store your bicycle(s), please remit $50 to Jeff Prindle at Great North Property Management, 100 Daniel Webster Highway, Nashua, NH 03060. Your check must be made payable to the "Upper Cottonhouse Lofts Condo Assoc."</p>
+<p>With your check, please provide a description of your bicycle. Bicycles not registered with the Association will be removed and discarded.</p>
+<p>Please <a href="contact.shtml">contact Jeff Pridle</a> with any questions about the bicycle room.</p>
+
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>

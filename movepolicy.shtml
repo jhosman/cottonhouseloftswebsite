@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Move In / Move Out Policy: The Upper Cottonhouse Lofts at Appleton Mills</title>
+<link href="ucl.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="menu.css" rel="stylesheet" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+
+<div id="maincontent">
+<h2 id="movepolicy">Move In / Move Out Policy</h2>
+<p><span class="enfemph">Whereas</span> the Declaration of Trust for the Upper Cotton House Lofts Condominium Association specifies a set of Rules and Regulations for the Owners; and</p>
+<p><span class="enfemph">Whereas</span> the Declaration of Trust for the Upper Cotton House Lofts Condominium Association allows the Trustees to amend those Rules and Regulations; and</p>
+<p><span class="enfemph">Whereas</span> the moving in and moving out of residents furniture causes inordinate wear and tear on the common areas of the building:</p>
+<p><span class="enfemph">Now therefore</span>, the Board of Trustees has established the following policy for moving in and moving out at Upper Cotton House Lofts:</p>
+<p>It is mandatory that all moving activity be performed during normal business hours 7:00 AM to
+10:00 PM on Monday through Friday, or between the hours of 9:00 AM to 4:00 PM on Saturdays or Sundays. NO ACTIVITY WILL BE PERMITTED ON MAJOR HOLIDAYS.</p>
+<p>In order to offset the cost of moving on the wear and tear of the Common Areas, a move-in fee is charged to each unit upon closing. The fee is charged to each unit being sold at Upper Cotton House Lofts. The fee will also be charged to the owner of a unit, when an existing tenant moves out and a new tenant moves in. The current fee as set by the Board of Directors on July 29,2009 is $150.</p>
+<p>Any and all damages to the common areas incurred due to the move-in or move-out of a unit over and above the current move-in fee will be assessed against the unit for immediate payment.</p>
+<p>Proceeds from this move-in fee will go directly to the paint fund.</p>
+<p>Failure to pay move-in fees within thirty (30) days may result in a real estate lien being placed
+on the offending unit for the fine plus costs.</p>
+<p class="adoptdate">Adopted: July 28, 2009</p>
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>

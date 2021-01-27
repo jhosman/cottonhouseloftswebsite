@@ -1,0 +1,319 @@
+/* Site-wide styles */
+
+html {
+	height: 101%;
+}
+
+body {
+	background-image: url(images/background.gif);
+	background-repeat: repeat-x;
+	font-family: calibri, tahoma, verdana, arial, helvetica, sans-serif;
+	font-size: medium;
+	width: 760px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffff;
+	border: solid 1px #ffffff;
+	padding: 0px 15px 15px 15px;
+}
+p {
+	margin-left: 5px;
+}
+h3 {
+	height: 7px;
+	font-size: 100%;
+	font-weight: bold;
+}
+h4 {
+	font-size: 100%;
+	font-weight: bold;
+}
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	text-indent: 5px;
+	}
+th, td {
+	text-align: left;
+	font-weight: normal;
+}
+#menuandmain {
+	border: solid 1px #b1b2b1;
+	background-color: #ffffff;
+	line-height: 125%;
+	margin-top: -10px;
+}
+#maincontent {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 20px;
+}
+#footer {
+	width: 760px;
+	font-size: 75%;
+	font-style: italic;
+	margin-top: 20px;
+	text-align: center;
+	color: #666666;
+	clear: both;
+}
+a:link {
+	color: #990000;
+	text-decoration: underline;
+}
+a:visited {
+	color: #330000;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	color: #990000;
+}
+
+/* History page */
+
+.histpic {
+	float: right;
+	border: solid 1px #b1b2b1;
+	margin: 0 0 0 10px;
+	padding: 5px 5px 1px 5px;
+}
+p.histtxt {
+	clear: right;
+}
+
+/* Contact page */
+
+#contact {
+	width: 200px;
+	padding: 0 15px 15px 0;
+	margin: 0 15px 15px 0;
+	font-size: 75%;
+}
+#contact2 {
+	width: 400px;
+	float: right;
+}
+#contact li {
+	list-style-type: none;
+}
+#contact ul {
+	padding: 0;
+	margin-left: 5px;
+}
+.jobtitle {
+	font-style: italic;
+}
+.sidebarhead {
+	font-size: 125%;
+	font-weight: bold;
+	font-variant: small-caps;
+	height: 7px;
+}
+
+/* Meetings */
+#notes ul {
+	list-style-position: inside;
+}
+
+/* General Rules page */
+.lettlist {
+list-style-type: lower-alpha;
+}
+.numlist {
+list-style-type: decimal;
+}
+p.adoptdate {
+	font-variant: small-caps;
+	text-align: right;
+}
+
+/* Enforcement policy page */
+
+.enfemph {
+	font-weight: bold;
+}
+
+/* Survey page */
+
+#mainsurvey {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+legend {
+	font-weight: bold;
+}
+
+/* Art Collection page */
+
+table#slideshow {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table#slideshow a:link {
+	color: #b1b2b1;
+}
+
+/* Local page */
+
+#otherresources {
+	width: 350px;
+}
+#otherresources li {
+	list-style-type: none;
+	list-style-position: inside;
+}
+#neighborhood {
+	float: right;
+	width: 250px;
+	border: dashed 1px #b1b2b1;
+	background-color: #e4e4dd;
+	padding: 0 15px 15px 15px;
+	margin: 0 15px 15px 0;
+	font-size: 80%;
+}
+#neighborhood li {
+	list-style-type: square;
+	list-style-position: inside;
+}
+#neighborhood ul {
+	text-indent: 5px;
+}
+#maincontent ul {
+	padding: 0;
+	text-indent: 5px;
+}
+#neighborhood a:link {
+	text-decoration: none;
+}
+#otherresources a:link {
+	text-decoration: none;
+}
+#neighborhood a:visited {
+	text-decoration: none;
+}
+#otherresources a:visited {
+	text-decoration: none;
+}
+#neighborhood a:hover {
+	text-decoration: underline;
+}
+#otherresources a:hover {
+	text-decoration: underline;
+}
+#neighborhood a:active {
+	color: #990000;
+}
+#otherresources a:active {
+	color: #990000;
+}
+
+/* Image replacements */
+
+#header {
+	padding: 268px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/header.jpg);
+	background-repeat: no-repeat;
+	border: solid 1px #b1b2b1;
+	height: 0px;
+}
+#welcome {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/welcome.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#history {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/history.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#contacthead {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/contact.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#meetings {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/meetings.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#meetingnotes {
+	padding: 14px 0 3px 0;
+	overflow: hidden;
+	background-image: url(images/meetingnotes.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#rules {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/rules.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#pets {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/pets.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#movepolicy {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/movepolicy.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#enforcement {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/enforcement.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#services {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/services.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#survey {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/survey.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#art {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/art.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}
+#local {
+	padding: 14px 0 0 0;
+	overflow: hidden;
+	background-image: url(images/local.gif);
+	background-repeat: no-repeat;
+	height: 0px;
+}

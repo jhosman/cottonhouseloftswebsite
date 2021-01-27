@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Local Resources: Upper Cottonhouse Lofts at Appleton Mills</title>
+<link href="ucl.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="menu.css" rel="stylesheet" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+
+<div id="maincontent">
+<h2 id="local">Local Resources</h2>
+
+<div id="neighborhood">
+<h3>Neighborhood Info</h3>
+	<ul>
+		<li><a href="http://www.hamiltoncanal.com/" title="Hamilton Canal District">Hamilton Canal District Website</a></li>
+		<li><a href="http://jambralowell.wordpress.com/" title="Jackson / Appleton / Middlesex Business and Resident Assoc.">Jackson / Appleton / Middlesex Business and Resident Assoc. (JAMBRA)</a></li>
+		<li><a href="http://lowelldna.blogspot.com/" title="Lowell downtown neighborhood assoc.">Lowell downtown neighborhood assoc.</a></li>
+		<li><a href="http://downtownlowell.blogspot.com/" title="Downtown Lowell Blog">Downtown Lowell Blog</a></li>
+	</ul>
+</div>
+
+<div id="otherresources">
+<h3>Transportation</h3>
+	<ul>
+		<li><a href="http://www.mbta.com/schedules_and_maps/rail/" title="MBTA Commuter Rail">MBTA Commuter Rail</a></li>
+		<li><a href="http://www.lrta.com/" title="Lowell Regional Transit Authority">Lowell Regional Transit Authority</a></li>
+	</ul>
+<h3>Events in Lowell</h3>
+
+<table>
+<tr>
+	<td><em>Feb.</em></td>
+	<td></td>
+	<td><a href="http://www.lowellwinterfest.org/" title="Lowell Winterfest">Lowell Winterfest</a></td>
+</tr>
+<tr>
+	<td><em>April</em>&nbsp;</td>
+	<td></td>
+	<td><a href="http://www.lowellfilms.org/" title="Lowell Film Festival">Lowell Film Festival</a></td>
+</tr>
+<tr>
+	<td><em>May</em></td>
+	<td></td>
+	<td><a href="http://www.doorsopenlowell.org/" title="Doors Open Lowell">Doors Open Lowell</a></td>
+</tr>
+<tr>
+	<td><em>June</em></td>
+	<td></td>
+	<td><a href="http://www.africanfestivallowell.org/" title="African Festival">African Festival</a></td>
+</tr>
+<tr>
+	<td><em>June-<br />Sept.</em></td>
+	<td></td>
+	<td><a href="http://www.lowellsummermusic.org/page.php?page=root/home.htm" title="Lowell Summer Music Series at Boardinghouse Park">Lowell Summer Music Series at Boardinghouse Park</a></td>
+</tr>
+<tr>
+	<td><em>July</em></td>
+	<td></td>
+	<td><a href="http://www.lowellfolkfestival.org/" title="Lowell Folk Festival">Lowell Folk Festival</a></td>
+</tr>
+<tr>
+	<td><em>Aug.</em></td>
+	<td></td>
+	<td><a href="http://www.lowellwaterfestival.org/" title="Southeast Asian Water Festival">Southeast Asian Water Festival</a></td>
+</tr>
+<tr>
+	<td><em>Aug.</em></td>
+	<td></td>
+	<td><a href="http://www.lowellquiltfestival.org/" title="Lowell Quilt Festival">Lowell Quilt Festival</a></td>
+</tr>
+<tr>
+	<td><em>Sept.</em></td>
+	<td></td>
+	<td><a href="http://www.lowellopenstudios.org/index.php" title="Lowell Open Studios">Lowell Open Studios</a></td>
+</tr>
+<tr>
+	<td><em>Oct.</em></td>
+	<td></td>
+	<td><a href="http://www.lowellcelebrateskerouac.org/" title="Lowell Celebrates Kerouac">Lowell Celebrates Kerouac</a></td>
+</tr>
+<tr>
+	<td><em>Oct.</em></td>
+	<td></td>
+	<td><a href="http://masspoetry.org/" title="Massachusetts Poetry Festival">Massachusetts Poetry Festival</a></td>
+</tr>
+<tr>
+	<td><em>Nov.</em></td>
+	<td></td>
+	<td><a href="http://www.cultureiscool.org/" title="City of Lights Parade and Holiday Art Stroll">City of Lights Parade and Holiday Art Stroll</a></td>
+</tr>
+</table>
+
+<h3>Museums and Galleries</h3>
+	<ul>
+		<li><a href="http://www.whistlerhouse.org/" title="Whistler House Museum of Art">Whistler House Museum of Art</a></li>
+		<li><a href="http://www.nequiltmuseum.org/" title="New England Quilt Museum">New England Quilt Museum</a></li>
+		<li><a href="http://www.athm.org/" title="American Textile History Museum">American Textile History Museum</a></li>
+		<li><a href="http://www.revolvingmuseum.org/" title="The Revolving Museum">The Revolving Museum</a></li>
+		<li><a href="http://www.theloadingdockgallery.com/" title="The Loading Dock Gallery">The Loading Dock Gallery</a></li>
+		<li><a href="http://www.119gallery.org/" title="119 Gallery">119 Gallery</a></li>
+		<li><a href="http://www.artsleagueoflowell.com/gallery.cfm" title="Arts League of Lowell Gallery">Arts League of Lowell Gallery</a></li>
+		<li><a href="http://www.thebrush.org/" title="Brush Gallery">Brush Gallery</a></li>
+		<li><a href="http://www.nps.gov/lowe/index.htm" title="Lowell National Historical Parks Center">Lowell National Historical Parks Center</a></li>
+	</ul>
+</div>
+
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>

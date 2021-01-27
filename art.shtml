@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Art Collection of the Upper Cottonhouse Lofts at Appleton Mills</title>
+<link rel="stylesheet" href="ucl.css" type="text/css" />
+<link  rel="stylesheet" href="menu.css" type="text/css" />
+<link rel="stylesheet" href="javascript/fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+<script type="text/javascript" src="javascript/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" src="javascript/fancybox/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="javascript/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	$("a.images").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+});
+</script>
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+
+<div id="maincontent">
+<h2 id="art">Art Collection of the Upper Cottonhouse Lofts</h2>
+<p>The art collection of the Upper Cottonhouse Lofts currently consists of 29 black-and-white photographs by Lowell artists <a href="http://www.jessicahosman.com" title="Jessica Hosman Photography">Jessica Hosman</a>, <a href="http://www.sarahcoughtry.com"  title="Sarah Coughtry Photography">Sarah Coughtry</a>, and <a href="http://www.melissasantarpio.com" title="Melissa Santarpio Photography">Melissa Santarpio</a>. The photographs depict various buildings and landscapes in Lowell, and were printed by hand in the darkroom on fiber-based, silver gelatin paper. The art collection is only available to residents of the Cottonhouse Lofts and their visitors, but please enjoy a slideshow of the images below.</p>
+
+<table id="slideshow">
+<tr>
+<td><a class="images" rel="group1" href="images/slideshow/jh-1.jpg"><img src="images/slideshow/thumbs/jh-1.jpg" alt="Riverwalk, behind the Lawrence Mills. Photo by Jessica Hosman." title="Riverwalk, behind the Lawrence Mills. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/sc-4.jpg"><img src="images/slideshow/thumbs/sc-4.jpg" alt="City Hall & Victory Monument. Photo by Sarah Coughtry." title="City Hall and the Victory Memorial Statue. Photo by Sarah Coughtry." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-2.jpg"><img src="images/slideshow/thumbs/jh-2.jpg" alt="Pawtucket Falls, view from Pawtucket Boulevard. Photo by Jessica Hosman." title="Pawtucket Falls, view from Pawtucket Boulevard. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-4.jpg"><img src="images/slideshow/thumbs/jh-4.jpg" alt="Pollard Memorial Library. Photo by Jessica Hosman." title="Pollard Memorial Library. Photo by Jessica Hosman." /></a></td>
+</tr>
+
+<tr>
+<td><a class="images" rel="group1" href="images/slideshow/sc-1.jpg"><img src="images/slideshow/thumbs/sc-1.jpg" alt="Saint Joseph's Hospital, Pawtucket Street, 2004. Photo by Sarah Coughtry." title="Saint Joseph's Hospital, Pawtucket Street, 2004. Photo by Sarah Coughtry." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-5.jpg"><img src="images/slideshow/thumbs/jh-5.jpg" alt="Dracut/Tyngsboro/Lowell State Forest. Photo by Jessica Hosman." title="Dracut/Tyngsboro/Lowell State Forest. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-6.jpg"><img src="images/slideshow/thumbs/jh-6.jpg" alt="Eliot Church. Photo by Jessica Hosman." title="Eliot Church, 273 Summer Street. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-7.jpg"><img src="images/slideshow/thumbs/jh-7.jpg" alt="Grave of Jack Kerouac. Photo by Jessica Hosman." title="Grave of Jack Kerouac, Edson Cemetary, Lincoln Ave (between 7th and 8th Streets). Photo by Jessica Hosman." /></a></td>
+</tr>
+
+<tr>
+<td><a class="images" rel="group1" href="images/slideshow/jh-9.jpg"><img src="images/slideshow/thumbs/jh-9.jpg" alt="City Hall. Photo by Jessica Hosman." title="City Hall. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-11.jpg"><img src="images/slideshow/thumbs/jh-11.jpg" alt="Rogers Fort Hill Park. Photo by Jessica Hosman." title="Rogers Fort Hill Park. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-10.jpg"><img src="images/slideshow/thumbs/jh-10.jpg" alt="Church, 145 E Merrimack St. Photo by Jessica Hosman." title="Immaculate Conception Church, 145 East Merrimack Street. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-15.jpg"><img src="images/slideshow/thumbs/jh-15.jpg" alt="Lawrence Mills. Photo by Jessica Hosman." title="Lawrence Mills, 52 Lawrence Dr, Lowell. Photo by Jessica Hosman." /></a></td>
+</tr>
+
+<tr>
+<td><a class="images" rel="group1" href="images/slideshow/jh-13.jpg"><img src="images/slideshow/thumbs/jh-13.jpg" alt="Edson Cemetary. Photo by Jessica Hosman." title="Edson Cemetary, 1375 Gorham Street. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-14.jpg"><img src="images/slideshow/thumbs/jh-14.jpg" alt="Lowell Superior Courthouse. Photo by Jessica Hosman." title="Lowell Superior Courthouse. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-8.jpg"><img src="images/slideshow/thumbs/jh-8.jpg" alt="Church, 145 E Merrimack St. Photo by Jessica Hosman." title="Immaculate Conception Church (detail), 145 East Merrimack Street. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/sc-2.jpg"><img src="images/slideshow/thumbs/sc-2.jpg" alt="The Frozen Merrimack. Photo by Sarah Coughtry." title="The Frozen Merrimack. Photo by Sarah Coughtry." /></a></td>
+</tr>
+
+<tr>
+<td><a class="images" rel="group1" href="images/slideshow/jh-19.jpg"><img src="images/slideshow/thumbs/jh-19.jpg" alt="Hamilton Canal Lock. Photo by Jessica Hosman." title="Hamilton Canal Lock. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-3.jpg"><img src="images/slideshow/thumbs/jh-3.jpg" alt="Pollard Memorial Library. Photo by Jessica Hosman." title="Pollard Memorial Library. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/sc-5.jpg"><img src="images/slideshow/thumbs/sc-5.jpg" alt="Riverwalk. Photo by Sarah Coughtry." title="Riverwalk, Pawtucket Boulevard. Photo by Sarah Coughtry." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-12.jpg"><img src="images/slideshow/thumbs/jh-12.jpg" alt="Grotto. Photo by Jessica Hosman." title="Grotto, Franco-American School, 375 Pawtucket Street. Photo by Jessica Hosman." /></a></td>
+</tr>
+
+<tr>
+<td><a class="images" rel="group1" href="images/slideshow/sc-3.jpg"><img src="images/slideshow/thumbs/sc-3.jpg" alt="Autumn in Lowell. Photo by Sarah Coughtry." title="Autumn in Lowell. Photo by Sarah Coughtry." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-16.jpg"><img src="images/slideshow/thumbs/jh-16.jpg" alt="View of Appleton, Summer, and Thorndike Streets. Photo by Jessica Hosman." title="View of Appleton, Summer, and Thorndike Streets. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-17.jpg"><img src="images/slideshow/thumbs/jh-17.jpg" alt="Lowell Memorial Auditorium, 50 East Merrimack Street. Photo by Jessica Hosman." title="Lowell Memorial Auditorium, 50 East Merrimack Street. Photo by Jessica Hosman." /></a></td>
+<td><a class="images" rel="group1" href="images/slideshow/jh-18.jpg"><img src="images/slideshow/thumbs/jh-18.jpg" alt="Hamilton Mill in a snowstorm. Photo by Jessica Hosman." title="Hamilton Mill in a snowstorm. Photo by Jessica Hosman." /></a></td>
+</tr>
+
+</table>
+
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>History of the Mills: The Upper Cottonhouse Lofts at Appleton Mills</title>
+<link href="ucl.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="menu.css" rel="stylesheet" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+
+<!--main content-->
+<div id="maincontent">
+<h2 id="history">History of the Mills</h2>
+	<p class="histpic"><img src="images/jackson_st.jpg" alt="Jackson Street, 1800s"/></p>
+	<p>The two large mill buildings on Jackson Street&mdash;Appleton Mill, which houses the Cottonhouse Lofts, and Hamilton Mill, currently under constuction&mdash;were built around 1826. The construction of these large textile companies was funded in part by Patrick Tracy Jackson and Nathan Appleton, some of Lowell's earliest investors.</p> <p>Appleton was the cousin of Francis Cabot Lowell, for whom the city is named. These men were particularly supportive of education for the young and old, providing one of the first buildings for the Lowell High School in the 1830s, and a few years later offering space for the Ministry-at-Large evening school program for adults.</p> 
+	<p><a href="http://en.wikipedia.org/wiki/History_of_Lowell,_Massachusetts" title="City of Lowell Wikipedia Page">Click here</a> for more information about the history of the city of Lowell.</p>
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>

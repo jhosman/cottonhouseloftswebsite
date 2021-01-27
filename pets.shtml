@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Pet Policy: The Upper Cottonhouse Lofts at Appleton Mills</title>
+<link href="ucl.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="menu.css" rel="stylesheet" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+
+<div id="maincontent">
+<h2 id="pets">Pet Rules and Regulations</h2>
+<p>All pets must be carried in the common areas of the building. Once outside the building, please keep in mind there is a leash law in Lowell. All owners are responsible for cleaning up after their pet, inside and outside of the building. Noise or disturbances by a pet can be fined by the Board of Trustees. Any damage to common space areas by a pet (including extra cleaning charges) shall be assessed to the owner of the pet. Please report any violations to the property manager or to a trustee.</p>
+<p>Violations of these  rules and regulations  are governed by the enforcement policy. For the full pet rules and regulations, please see the Rules and Regulations document and the Pet Policy Ammendment document.</p>
+
+<h3>Pet Policy Amendment</h3>
+<p><span class="enfemph">Whereas</span> the Declaration of Trust for the Upper Cotton House Lofts Condominium Association specifies a set of Rules and Regulations for the Owners; and</p>
+<p><span class="enfemph">Whereas</span> the Declaration of Trust for the Upper Cotton House Lofts Condominium Association allows the Trustees to amend those Rules and Regulations; and</p>
+<p><span class="enfemph">Whereas</span> the Board of Trustees desires to protect the safety of all residents and protect and further limit liabilities against the Association Master Insurance policy;</p>
+<p><span class="enfemph">Now therefore</span>, the Board of Trustees has amended the pet policy in those Rules and Regulations:</p>
+<p>Section 4 (a) in the rules and Regulations are deleted and replaced with the following:</p>
+<p>(a) Unit Owners or residents may keep in their Units no more than 2 dogs, cats, or other household pets. In no event shall the following breeds of dogs be permitted: Akita, Argentinian Mastiff, Bull Mastiff, Cane Corso, Chow, Doberman Pinscher, Bull Terrier, German Shepherd, Pit Bull, Rottweiller, Wolf Hybrid, any mixed breeds that are inclusive of any of the above, Guard Dogs, and any dog with a past history of biting or that has demonstrated aggressive behavior.</p>
+<p>It is the responsibility of the Unit Owners to ensure that their tenants are aware of the Rules and Regulations of the Upper Cotton House lofts Condominium Association. Breach of Rules by the tenant will result in fines being imposed upon the appropriate Owner's Unit.</p>
+<p class="adoptdate">Adopted: September 22, 2009</p>
+<p><em>Note: Any pets that exist at the units at Upper Cotton House Lofts prior to the adoption of this policy will be grandfathered and deemed to not be in violation of this regulation.</em></p>
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>

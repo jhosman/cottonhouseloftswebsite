@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Enforcement Policy: The Upper Cottonhouse Lofts at Appleton Mills</title>
+<link href="ucl.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="menu.css" rel="stylesheet" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+
+<div id="maincontent">
+<h2 id="enforcement">Enforcement Policy</h2>
+<p><span class="enfemph">Whereas</span> the Declaration of Trust for the Upper Cotton House Lofts Condominium Association specifies a set of Rules and Regulations for the Owners; and</p>
+<p><span class="enfemph">Whereas</span> the Declaration of Trust for the Upper Cotton House Lofts Condominium Association allows the Trustees to amend those Rules and Regulations and establish enforcement policies:</p>
+<p><span class="enfemph">Now therefore</span>, the Board of Trustees has established the following enforcement policy for those Rules and Regulations:</p>
+<p>All reports of violations must be reported in writing to the Board of Trustees via the Management Company.</p>
+<p>A violation of the Rules and Regulations for the Upper Cotton House Lofts Condominium Association shall be enforced as follows:</p>
+<p><span class="enfemph">First offense</span>: A written warning will be sent from the Property Manager on behalf of the Board of Trustees to the owner of the unit whose residents have committed the violation, detailing the violation and warning the offender to cease and desist from committing the violation cited.</p>
+<p><span class="enfemph">Second offense</span>: A written warning will be sent from the Property Manager on behalf of the Board of Trustees to the owner of the unit whose residents have committed the violation, detailing the violation and assessing a fine of $50 against the unit of the offending resident.</p>
+<p><span class="enfemph">Third and subsequent offenses</span>: A written warning will be sent from the Property Manager on behalf of the Board of Trustees to the owner of the unit whose residents have committed the violation, detailing the violation and assessing a fine of $100 against the unit of the offending resident. A fine of $25 per day for continuing offenses may be substituted if the situation warrants it.</p>
+<p>For any offense: The Board may also demand that the situation be remedied at the unit owner’s expense. Examples of this could be removing a pet, or disassembling an unauthorized addition if necessary.</p>
+<p>Appeals: After receiving a written notice of violation, the unit owner may submit a request in writing (within 14 days of the date of the letter informing them of the violation, to appeal the fine or warning. The Board is obligated to respond to the unit owner within 30 days of the notice of appeal.</p>
+<p>Failure to pay fines within thirty (30) days may result in a real estate lien being placed on the offending unit for the fine plus costs.</p>
+<p>It is the responsibility of the Unit Owners to ensure that their tenants are aware of the Rules and Regulations of the Upper Cotton House Lofts Condominium Association. Breach of Rules by the tenant will result in fines being imposed upon the appropriate Owner’s Unit.</p>
+<p class="adoptdate">Adopted: March 25, 2008</p>
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>

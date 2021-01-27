@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Contacts for Residents of the Upper Cottonhouse Lofts at Appleton Mills</title>
+<link href="ucl.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="menu.css" rel="stylesheet" />
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+<!-- for mozilla/firefox -->
+<link rel="icon" href="images/favicon.png" type="image/png"/>
+<!-- for IE -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Lowell, Massachusetts, Cottonhouse, Loft, Condominium, Association"/>
+<meta name="description" content= "The Upper Cottonhouse Lofts are located on the sixth floor of the Appleton Mills, in historic Lowell, Massachusetts."/>
+<meta name="author" lang="en-US" content= "Upper Cottonhouse Lofts at Appleton Mills Condominium Association"/>
+
+<script type="text/javascript" src="javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+
+</head>
+<body>
+<h1 id="header">The Upper Cottonhouse Lofts at Appleton Mills</h1>
+
+<div id="menuandmain">
+<div id="navigation">
+<!--#include virtual="navigation.inc"-->
+</div>
+<div id="maincontent">
+<h2 id="contacthead">Contact</h2>
+
+<div id="contact2">
+<h3>Reporting Problems</h3>
+<p>For issues with the roof, elevator, or to report damage or malfunction in any other commonspace area, please contact the property manager.</p>
+
+<h3>Condo Fees</h3>
+<p>For questions about condo fees, or to set up automatic withdrawal from a bank account, please contact the accounting office at Great North Property Management.</p>
+
+<h3>Lobby Buzzer</h3>
+<p>To change your phone number that rings from the lobby buzzer, please contact the property manager.</p>
+</div>
+
+<div id="contact">
+<p class="sidebarhead">Board of Trustees</p>
+	<ul>
+		<li>Matt Petrosky, <span class="jobtitle">President</span></li>
+		<li>Jennifer Kelleher, <span class="jobtitle">Treasurer</span></li>
+		<li>Edgar Davis, <span class="jobtitle">Secretary</span></li>
+		<li>Benjamin Bulger, <span class="jobtitle">Trustee</span></li>
+		<li>Michael Dion, <span class="jobtitle">Trustee</span></li>
+		<li><a href="mailto:boardcottonhouse@gmail.com" title="Email the UCL Association Board">Contact the board</a></li>
+	</ul>
+<p class="sidebarhead">Property Management</p>
+	<ul>
+		<li>Jeff Prindle</li>
+		<li class="jobtitle">Property Manager</li>
+		<li>Great North Property Management</li>
+		<li>(603) 891-1800</li>
+		<li><a href="mailto:jeff.prindle@greatnorth.net" title="Email Jeff Prindle">Email Jeff</a></li>
+	</ul>
+	<ul>
+		<li>Accounting Office</li>
+		<li>Great North Property Management</li>
+		<li>(603) 436-4100</li>
+	</ul>
+</div>
+
+
+</div>
+</div>
+
+<div id="footer">
+<!--#include virtual="footer.inc"-->
+</div>
+
+</body>
+</html>
